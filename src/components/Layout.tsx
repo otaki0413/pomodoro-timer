@@ -24,7 +24,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
           Created by{" "}
           <a
             className="text-amber-300"
-            href="#"
+            href="https://github.com/otaki0413/pomodoro-timer"
             target="_blank"
             rel="noreferrer"
           >
